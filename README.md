@@ -152,3 +152,40 @@ FEMA FIRM Database Technical Reference (available in the FEMA Library at http://
 The NFHL is made up of several data themes containing both spatial and attribute information. These data together represent the current flood risk for the subject area as identified by FEMA. The attribute tables include SFHA locations, flood zone designations, BFEs, political entities, cross-section locations, FIRM panel information, and other data related to the NFIP.
 FEMA's FIRM Database Technical Reference contains a detailed description of each attribute code and a reference to other relevant information.
 The following tables may be included in this data set: `L_Comm_Info`, `L_Comm_Revis`, `L_Cst_Model`, `L_Cst_Struct`, `L_Cst_Tsct_Elev`, `L_ManningsN`, `L_Meetings`, `L_MT2_LOMR`, `L_Mtg_POC`, `L_Pan_Revis`, `L_Pol_FHBM`, `L_Profil_Bkwtr_El`, `L_Profil_Label`, `L_Profil_Panel`, `L_Source_Cit`, `L_Summary_Discharges`, `L_Summary_Elevations`, `L_Survey_Pt`, `L_XS_Elev`, `L_XS_Struct`, `S_Alluvial_Fan`, `S_Base_Index`, `S_BFE`, `S_CBRS`, `S_Cst_Gage`, `S_Cst_Tsct_Ln`, `S_Datum_Conv_Pt`, `S_FIRM_Pan`, `S_Fld_Haz_Ar`, `S_Fld_Haz_Ln`, `S_Gage`, `S_Gen_Struct`, `S_HWM`, `S_Hydro_Reach`, `S_Label_Ld`, `S_Label_Pt`, `S_Levee`, `S_LiMWA`, `S_LOMR`, `S_Nodes`, `S_PFD_Ln`, `S_PLSS_Ar`, `S_Pol_Ar`, `S_Profil_Basln`, `S_Riv_Mrk`, `S_Stn_Start`, `S_Subbasins`, `S_Submittal_Info`, `S_Topo_Confidence`, `S_Trnsport_Ln`, `S_Tsct_Basln`, `S_Wtr_Ar`, `S_Wtr_Ln`, `S_XS`, `Study_Info`.  
+
+### Layers in the public NFHL GIS services:
+Use the numbers shown below when referencing layers by number.
+0.	NFHL Availability
+1.	LOMRs
+2.	LOMAs
+3.	FIRM Panels
+4.	Base Index
+5.	PLSS
+6.	Toplogical Low Confidence Areas
+7.	River Mile Markers
+8.	Datum Conversion Points
+9.	Coastal Gages
+10.	Gages
+11.	Nodes
+12.	High Water Marks
+13.	Station Start Points
+14.	Cross-Sections
+15.	Coastal Transects
+16.	Base Flood Elevations
+17.	Profile Baselines
+18.	Transect Baselines
+19.	Limit of Moderate Wave Action
+20.	Water Lines
+21.	Layer Not Used
+22.	Political Jurisdictions
+23.	Levees
+24.	General Structures
+25.	Primary Frontal Dunes
+26.	Hydrologic Reaches
+27.	Flood Hazard Boundaries
+28.	Flood Hazard Zones
+29.	Submittal Information
+30.	Alluvial Fans
+31.	Subbasins
+32.	Water Areas  
+[Source: GIS Web Services for the FEMA National Flood Hazard Layer (NFHL) - FEMA: Mapping Information Platform](https://hazards.fema.gov/femaportal/wps/portal/NFHLWMS/)

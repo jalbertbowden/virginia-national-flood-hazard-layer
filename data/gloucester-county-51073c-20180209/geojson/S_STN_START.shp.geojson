@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51073C", "VERSION_ID": "1.1.1.0", "START_ID": "51073C_1", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH WARE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "NP" }, "geometry": { "type": "Point", "coordinates": [ -76.522914515809816, 37.401289609008295 ] } }
+]
+}

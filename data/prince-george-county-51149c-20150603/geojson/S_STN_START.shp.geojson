@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51149C", "VERSION_ID": "1.1.1.0", "START_ID": "51149C_51149C_4", "START_DESC": "DISTANCES ARE MEASURED IN MILES ABOVE CONFLUENCE WITH POWELL CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "51149C_" }, "geometry": { "type": "Point", "coordinates": [ -77.224185441902364, 37.186390276404182 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51149C", "VERSION_ID": "1.1.1.0", "START_ID": "51149C_51149C_5", "START_DESC": "DISTANCES ARE MEASURED IN MILES ABOVE CONFLUENCE WITH BAILEY CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "51149C_" }, "geometry": { "type": "Point", "coordinates": [ -77.224185441902364, 37.186390276404182 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51149C", "VERSION_ID": "1.1.1.0", "START_ID": "51149C_51149C_1", "START_DESC": "DISTANCES ARE MEASURED IN MILES ABOVE COUNTY BOUNDARY", "LOC_ACC": "Low", "SOURCE_CIT": "51149C_" }, "geometry": { "type": "Point", "coordinates": [ -77.224185441902364, 37.186390276404182 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51149C", "VERSION_ID": "1.1.1.0", "START_ID": "51149C_51149C_2", "START_DESC": "DISTANCES ARE MEASURED IN MILES ABOVE CONFLUENCE WITH NOTTOWY RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51149C_" }, "geometry": { "type": "Point", "coordinates": [ -77.224185441902364, 37.186390276404182 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51149C", "VERSION_ID": "1.1.1.0", "START_ID": "51149C_51149C_3", "START_DESC": "DISTANCES ARE MEASURED IN MILES ABOVE MAIN CHANNEL OF THE JAMES RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51149C_" }, "geometry": { "type": "Point", "coordinates": [ -77.224185441902364, 37.186390276404182 ] } }
+]
+}

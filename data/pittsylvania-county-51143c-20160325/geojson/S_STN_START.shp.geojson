@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51143C", "VERSION_ID": "1.1.1.0", "START_ID": "51143C_5", "START_DESC": "FEET ABOVE CONFLUENCE WITH PUMPKIN CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.397627833893011, 36.811149380986542 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51143C", "VERSION_ID": "1.1.1.0", "START_ID": "51143C_1", "START_DESC": "FEET ABOVE CONFLUENCE WITH DAN RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.397627833893011, 36.811149380986542 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51143C", "VERSION_ID": "1.1.1.0", "START_ID": "51143C_2", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.397627833893011, 36.811149380986542 ] } }
+]
+}

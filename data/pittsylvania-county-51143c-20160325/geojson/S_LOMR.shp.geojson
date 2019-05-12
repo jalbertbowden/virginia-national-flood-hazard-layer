@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_LOMR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51143C", "VERSION_ID": "1.1.1.0", "LOMR_ID": "51143C_1", "EFF_DATE": "2016\/03\/25", "CASE_NO": "15-03-1839P", "SCALE": "6000", "STATUS": "Effective", "SOURCE_CIT": "51143C_LOMC1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.43628106704881, 36.580796644328714 ], [ -79.427526627292991, 36.585144574024781 ], [ -79.424170829900618, 36.579921853487086 ], [ -79.432279651944725, 36.57509094913042 ], [ -79.43628106704881, 36.580796644328714 ] ] ] } }
+]
+}

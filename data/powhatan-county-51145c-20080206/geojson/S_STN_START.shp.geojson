@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51145C", "VERSION_ID": "1.1.1.0", "START_ID": "1491317_2", "START_DESC": "Feet above confluence with Appomattox River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.915226106193245, 37.550217186963174 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51145C", "VERSION_ID": "1.1.1.0", "START_ID": "1491317_1", "START_DESC": "Feet above mouth", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.915226106193245, 37.550217186963174 ] } }
+]
+}

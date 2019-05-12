@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_8", "START_DESC": "Stream distance in feet above confluence with Tributary A", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_3", "START_DESC": "Stream distance in feet above Limit of Detailed Study (limit of detailed study is located approximately 0.6 mile downstream of confluence of Thorne Spring Branch", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_7", "START_DESC": "Stream distance in feet above confluence with Pondlick Branch", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_5", "START_DESC": "Stream distance in feet above confluence with Peak Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_1", "START_DESC": "Stream distance in feet above confluence with New River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_6", "START_DESC": "Stream distance in miles above confluence with Peak Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_2", "START_DESC": "Stream distance in miles above mouth", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51155C", "VERSION_ID": "1.1.1.0", "START_ID": "51155C_4", "START_DESC": "Stream distance in feet above confluence with Tract Fork", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.714318229465164, 37.063619963016357 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510066", "VERSION_ID": "1.1.1.0", "START_ID": "1537380_1", "START_DESC": "STREAM DISTANCE IN MILES ABOVE CONFLUENCE WITH NEW RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.917421368792233, 36.666183070109973 ] } }
+]
+}

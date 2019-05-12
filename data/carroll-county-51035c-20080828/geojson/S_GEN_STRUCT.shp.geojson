@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "S_GEN_STRUCT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51035C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "1548275_1", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": null, "WTR_NM": "Chestnut Creek", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "1548275_BASE4" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.930945327221593, 36.671303202651934 ], [ -80.931108439135699, 36.671090972761654 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51035C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "1548275_2", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": null, "WTR_NM": "Chestnut Creek", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "1548275_BASE4" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.917041254539413, 36.681096956990963 ], [ -80.916629701586203, 36.681146577881556 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51035C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "1548275_1", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": null, "WTR_NM": "Chestnut Creek", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "1548275_BASE4" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.930945327221593, 36.671303202651934 ], [ -80.931108439135699, 36.671090972761654 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51035C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "1548275_2", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": null, "WTR_NM": "Chestnut Creek", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "1548275_BASE4" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.917041254539413, 36.681096956990963 ], [ -80.916629701586203, 36.681146577881556 ] ] } }
+]
+}

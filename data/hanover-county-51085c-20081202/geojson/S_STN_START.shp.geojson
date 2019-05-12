@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51085C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_1", "START_DESC": "DISTANCE IN MILES ABOVE CONFLUENCE WITH PAMUNKEY RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.491334635919145, 37.760187460458035 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51085C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_2", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.491334635919145, 37.760187460458035 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51085C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_3", "START_DESC": "DISTANCE IN MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.491334635919145, 37.760187460458035 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "S_BFE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51137C", "VERSION_ID": "1.1.1.0", "BFE_LN_ID": "51137C_5", "ELEV": 300.0, "LEN_UNIT": "Feet", "V_DATUM": "NAVD88", "SOURCE_CIT": "51137C_LOMR1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.073927602181286, 38.310372331280035 ], [ -78.071112957743537, 38.31179792605657 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51137C", "VERSION_ID": "1.1.1.0", "BFE_LN_ID": "51137C_4", "ELEV": 299.0, "LEN_UNIT": "Feet", "V_DATUM": "NAVD88", "SOURCE_CIT": "51137C_LOMR1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.071073059865284, 38.309527435034262 ], [ -78.070431173411862, 38.30996295893241 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51137C", "VERSION_ID": "1.1.1.0", "BFE_LN_ID": "51137C_3", "ELEV": 294.0, "LEN_UNIT": "Feet", "V_DATUM": "NAVD88", "SOURCE_CIT": "51137C_LOMR1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.06568667866037, 38.309454680079774 ], [ -78.066564433292058, 38.310355064551196 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51137C", "VERSION_ID": "1.1.1.0", "BFE_LN_ID": "51137C_6", "ELEV": 301.0, "LEN_UNIT": "Feet", "V_DATUM": "NAVD88", "SOURCE_CIT": "51137C_LOMR1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.075358224792524, 38.312088275321983 ], [ -78.072932668486999, 38.313677986531843 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51137C", "VERSION_ID": "1.1.1.0", "BFE_LN_ID": "51137C_1", "ELEV": 292.0, "LEN_UNIT": "Feet", "V_DATUM": "NAVD88", "SOURCE_CIT": "51137C_LOMR1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.061691360084126, 38.311267686607117 ], [ -78.06331510314692, 38.31322570012901 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51137C", "VERSION_ID": "1.1.1.0", "BFE_LN_ID": "51137C_2", "ELEV": 293.0, "LEN_UNIT": "Feet", "V_DATUM": "NAVD88", "SOURCE_CIT": "51137C_LOMR1" }, "geometry": { "type": "LineString", "coordinates": [ [ -78.065388785678522, 38.310543825101348 ], [ -78.066148018832664, 38.311100216101266 ] ] } }
+]
+}

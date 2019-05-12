@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_GEN_STRUCT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51135C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "1566817_81", "STRUCT_TYP": "Dam", "CST_STRUCT": null, "STRUCT_NM": "DAM", "WTR_NM": "Namozine Creek", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "1566817_BASE3" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.857299925549398, 37.162411811343041 ], [ -77.856878483255386, 37.162287757806801 ], [ -77.856687711047528, 37.162192037736268 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51135C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "1566817_81", "STRUCT_TYP": "Dam", "CST_STRUCT": null, "STRUCT_NM": "DAM", "WTR_NM": "Namozine Creek", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "1566817_BASE3" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.857299925549398, 37.162411811343041 ], [ -77.856878483255386, 37.162287757806801 ], [ -77.856687711047528, 37.162192037736268 ] ] } }
+]
+}

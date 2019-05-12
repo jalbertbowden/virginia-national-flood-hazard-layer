@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_12", "START_DESC": "Stream distance in feet above confluence with Cove Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_13", "START_DESC": "Stream distance in miles above confluence with the Chesapeake Bay", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_14", "START_DESC": "Stream distance in feet above Roses Mill", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_15", "START_DESC": "Stream distance in feet above confluence with James River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_16", "START_DESC": "Stream distance in feet above confluence with Davis Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_17", "START_DESC": "Stream distance in feet above confluence with Rockfish River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_18", "START_DESC": "Stream distance in feet above confluence with South Fork Rockfish River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_19", "START_DESC": "Stream distance in feet above confluence with Dillard Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_20", "START_DESC": "Stream distance in feet above Tye River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51125C", "VERSION_ID": "1.1.1.0", "START_ID": "10617R1_21", "START_DESC": "Stream distance in feet above Hat Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.886793394095662, 37.787484429972842 ] } }
+]
+}

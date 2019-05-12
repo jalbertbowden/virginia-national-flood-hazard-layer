@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "S_GEN_STRUCT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51193C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51193C_81", "STRUCT_TYP": "Culvert", "CST_STRUCT": null, "STRUCT_NM": "CULVERT", "WTR_NM": "NP", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51193C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.625538583896287, 38.150029680127901 ], [ -76.625568418247212, 38.149975377156302 ], [ -76.625606032055771, 38.149937277459067 ], [ -76.625635816639146, 38.149921815459621 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51193C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51193C_82", "STRUCT_TYP": "Culvert", "CST_STRUCT": null, "STRUCT_NM": "CULVERT", "WTR_NM": "NP", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51193C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.604821532023152, 38.095001722014423 ], [ -76.6048107756788, 38.09504179145987 ], [ -76.604801503193983, 38.095076613045578 ], [ -76.604796015664078, 38.095096874996543 ], [ -76.604793044016048, 38.095133053403487 ], [ -76.604787340390146, 38.095200720278434 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51193C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51193C_83", "STRUCT_TYP": "Culvert", "CST_STRUCT": null, "STRUCT_NM": "CULVERT", "WTR_NM": "NP", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51193C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.600560438885623, 38.081233229300693 ], [ -76.600402360044882, 38.081230696393078 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51193C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51193C_84", "STRUCT_TYP": "Culvert", "CST_STRUCT": null, "STRUCT_NM": "CULVERT", "WTR_NM": "NP", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51193C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.63116197269494, 38.135585273036902 ], [ -76.631083567811118, 38.135589143120633 ], [ -76.631020884241991, 38.135592266690722 ], [ -76.630992628047011, 38.135588963695398 ] ] } }
+]
+}

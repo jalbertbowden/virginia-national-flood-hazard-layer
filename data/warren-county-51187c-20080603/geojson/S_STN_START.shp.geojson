@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51187C", "VERSION_ID": "1.1.1.0", "START_ID": "1524529_7", "START_DESC": "Stream distance in feet above confluence with North Fork Shenandoah River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.208556394277593, 38.908682658327081 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51187C", "VERSION_ID": "1.1.1.0", "START_ID": "1524529_2", "START_DESC": "Stream distance in feet above confluence with Happy Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.208556394277593, 38.908682658327081 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51187C", "VERSION_ID": "1.1.1.0", "START_ID": "1524529_5", "START_DESC": "Stream distance in feet above downstream Limit of Detailed Study", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.208556394277593, 38.908682658327081 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51187C", "VERSION_ID": "1.1.1.0", "START_ID": "1524529_1", "START_DESC": "Stream distance in feet above confluence with Shenandoah River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.208556394277593, 38.908682658327081 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51187C", "VERSION_ID": "1.1.1.0", "START_ID": "1524529_3", "START_DESC": "Stream distance in feet above confluence with Shenandoah River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.208556394277593, 38.908682658327081 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51187C", "VERSION_ID": "1.1.1.0", "START_ID": "1524529_6", "START_DESC": "Stream distance in feet above confluence with Leach Run", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.208556394277593, 38.908682658327081 ] } }
+]
+}

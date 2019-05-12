@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51191C", "VERSION_ID": "1.1.1.0", "START_ID": "51191C_1", "START_DESC": "MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.959641325400739, 36.724509296919479 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51191C", "VERSION_ID": "1.1.1.0", "START_ID": "51191C_2", "START_DESC": "MILES ABOVE CONFLUENCE WITH WOLF CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.959641325400739, 36.724509296919479 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51191C", "VERSION_ID": "1.1.1.0", "START_ID": "51191C_3", "START_DESC": "MILES ABOVE CONFLUENCE WITH LAUREL CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.959641325400739, 36.724509296919479 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51191C", "VERSION_ID": "1.1.1.0", "START_ID": "51191C_4", "START_DESC": "MILES ABOVE CONFLUENCE WITH MIDDLE FORK HOLSTON RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.959641325400739, 36.724509296919479 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51191C", "VERSION_ID": "1.1.1.0", "START_ID": "51191C_5", "START_DESC": "MILES ABOVE CONFLUENCE WITH SOUTH FORK HOLSTON RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.959641325400739, 36.724509296919479 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51191C", "VERSION_ID": "1.1.1.0", "START_ID": "51191C_6", "START_DESC": "MILES ABOVE CONFLUENCE WITH HUTTON CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.959641325400739, 36.724509296919479 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51141C", "VERSION_ID": "1.1.1.0", "START_ID": "1539219_1", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH MAYO RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.284354347694716, 36.678326479965442 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51141C", "VERSION_ID": "1.1.1.0", "START_ID": "1539219_2", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH SOUTH MAYO RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.284354347694716, 36.678326479965442 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51141C", "VERSION_ID": "1.1.1.0", "START_ID": "1539219_4", "START_DESC": "DISTANCE IN FEET ABOVE CONVERGENCE WITH SOUTH MAYO RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.284354347694716, 36.678326479965442 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51141C", "VERSION_ID": "1.1.1.0", "START_ID": "1539219_3", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH NORTH FORK SOUTH MAYO RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.284354347694716, 36.678326479965442 ] } }
+]
+}

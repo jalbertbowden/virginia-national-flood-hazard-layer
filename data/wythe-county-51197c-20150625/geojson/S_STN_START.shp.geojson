@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_13", "START_DESC": "Distance in Feet Above U.S. Route 11 and 52", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_10", "START_DESC": "Distance in Feet Above Confluence With Reed Creek", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_7", "START_DESC": "Distance in Feet Above State Route 619", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_8", "START_DESC": "Distance in Feet Above Confluence With Cripple Creek", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_5", "START_DESC": "Distance in Feet Above Confluene With Tributary A", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_11", "START_DESC": "Distance in Feet Above County Boundary", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_12", "START_DESC": "Distance in Feet Above Origin of Study", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_6", "START_DESC": "Distance in Feet Above Confluence With Miller Creek", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_3", "START_DESC": "Distance In Feet above Town of Wytheville Corporate Limits", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_9", "START_DESC": "Distance in Feet Above Confluence With New River", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51197C", "VERSION_ID": "1.1.1.0", "START_ID": "51197C_51197C_2", "START_DESC": "Distance In Feet Above  Norfolk and Western Railroad", "LOC_ACC": "Low", "SOURCE_CIT": "51197C_" }, "geometry": { "type": "Point", "coordinates": [ -81.078574048767109, 36.917132765555735 ] } }
+]
+}

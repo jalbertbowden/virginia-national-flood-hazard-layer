@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_7", "START_DESC": "MILES ABOVE CONFLUENCE WITH LAUREL FORK", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_8", "START_DESC": "MILES ABOVE CONFLUENCE WITH NORTH FORK CLINCH RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_9", "START_DESC": "MILES ABOVE CONFLUENCE WITH CLINCH RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_1", "START_DESC": "MILES ABOVE CONFLUENCE WITH PLUM CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_2", "START_DESC": "MILES ABOVE CONFLUENCE WITH TENNESSEE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_3", "START_DESC": "MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_4", "START_DESC": "MILES ABOVE CONFLUENCE WITH CAVITTS CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_5", "START_DESC": "MILES ABOVE CONFLUENCE WITH BLUESTONE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51185C", "VERSION_ID": "1.1.1.0", "START_ID": "51185C_51185C_6", "START_DESC": "MILES ABOVE STATE ROUTE 650", "LOC_ACC": "Low", "SOURCE_CIT": "51185C_" }, "geometry": { "type": "Point", "coordinates": [ -81.560631748339517, 37.124966447685971 ] } }
+]
+}

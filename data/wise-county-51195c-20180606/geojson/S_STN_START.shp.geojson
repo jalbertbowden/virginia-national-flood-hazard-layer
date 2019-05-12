@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_1", "START_DESC": "MILES ABOVE CONFLUENCE WITH CLINCH RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_2", "START_DESC": "FEET ABOVE CONFLUENCE WITH THE SOUTH FORK POWELL RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_4", "START_DESC": "MILES ABOVE CONFLUENCE WITH TOMS CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_5", "START_DESC": "MILES ABOVE CONFLUENCE WITH POUND RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_6", "START_DESC": "MILES ABOVE CONFLUENCE WITH BOLD CAMP CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_7", "START_DESC": "MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_8", "START_DESC": "MILES ABOVE CONFLUENCE WITH POWELL RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_9", "START_DESC": "MILES ABOVE CONFLUENCE WITH BEAR CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_10", "START_DESC": "MILES ABOVE CONFLUENCE WITH YELLOW CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_11", "START_DESC": "MILES ABOVE CONFLUENCE WITH GUEST RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_12", "START_DESC": "MILES ABOVE CONFLUENCE WITH PIGEON CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51195C", "VERSION_ID": "1.1.1.0", "START_ID": "51195C_3", "START_DESC": "MILES ABOVE CONFLUENCE WITH TENNESSEE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.62106791265353, 36.974389031433809 ] } }
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_7", "START_DESC": "Feet above confluence with Smith River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_8", "START_DESC": "Feet above confluence with Town Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_1", "START_DESC": "Feet above confluence with Smith Mountain Lake", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_2", "START_DESC": "Feet above confluence with Pigg River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_3", "START_DESC": "Feet above confluence with Blackwater River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_4", "START_DESC": "Feet above confluence with Maggodee Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_5", "START_DESC": "Feet above confluence with Roanoke River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51067C", "VERSION_ID": "1.1.1.0", "START_ID": "10802R4_6", "START_DESC": "Feet above confluence with South Fork of Blackwater River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.881066730327291, 36.991942661162 ] } }
+]
+}

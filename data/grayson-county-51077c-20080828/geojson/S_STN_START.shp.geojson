@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51077C", "VERSION_ID": "1.1.1.0", "START_ID": "1548276_4", "START_DESC": "DISTANCE IN FEET ABOVE COUNTY BOUNDARY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.934938017284125, 36.672230603057976 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51077C", "VERSION_ID": "1.1.1.0", "START_ID": "1548276_2", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH NEW RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.934938017284125, 36.672230603057976 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51077C", "VERSION_ID": "1.1.1.0", "START_ID": "1548276_1", "START_DESC": "DISTANCE IN FEET ABOVE TOWN OF FRIES CORPORATE LIMITS", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.934938017284125, 36.672230603057976 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51077C", "VERSION_ID": "1.1.1.0", "START_ID": "1548276_3", "START_DESC": "DISTANCE IN FEET ABOVE LIMIT OF DETAILED STUDY* *NOTE: LIMIT OF DETAILED STUDY IS LOCATED APPROXIMATELY 300 FEET UPSTREAM OF CONFLUENCE OF SHOP BRANCH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.934938017284125, 36.672230603057976 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51077C", "VERSION_ID": "1.1.1.0", "START_ID": "1548276_5", "START_DESC": "DISTANCE IN MILES ABOVE CONFLUENCE WITH NEW RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.934938017284125, 36.672230603057976 ] } }
+]
+}

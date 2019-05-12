@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_7", "START_DESC": "Feet above limit of detailed study (1,760 feet downstream of confluence of Tinpot Run)", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_8", "START_DESC": "Feet above limit of detailed study (720 feet upstream of State Route 675)", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_9", "START_DESC": "Feet above confluence with Craig Run", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_10", "START_DESC": "Feet above confluence with Cemetery Run", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_2", "START_DESC": "Feet above limit of detailed study (1,700 feet downstream of State Route 616)", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_3", "START_DESC": "Feet above confluence with Cedar Run", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_4", "START_DESC": "Feet above limit of detailed study (1,380 feet downstream of railroad bridge)", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_5", "START_DESC": "Feet above confluence with Bowens Run", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_6", "START_DESC": "Feet above confluence with Rappahannock River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51061C", "VERSION_ID": "1.1.1.0", "START_ID": "51061C_1", "START_DESC": "Feet above Town of Warrenton Corporate Limits", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.809515243619671, 38.738661002455011 ] } }
+]
+}

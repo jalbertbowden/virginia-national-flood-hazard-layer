@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51081C", "VERSION_ID": "1.1.1.0", "START_ID": "1583474_2", "START_DESC": "FEET ABOVE LIMIT OF DETAILED STUDY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.558822702465136, 36.676531848150333 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51081C", "VERSION_ID": "1.1.1.0", "START_ID": "1583474_1", "START_DESC": "FEET ABOVE CONFLUENCE WITH MEHERRIN RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.558822702465136, 36.676531848150333 ] } }
+]
+}

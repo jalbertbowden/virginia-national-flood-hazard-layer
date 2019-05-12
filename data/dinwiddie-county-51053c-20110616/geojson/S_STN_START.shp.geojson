@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51053C", "VERSION_ID": "1.1.1.0", "START_ID": "116115R1_9", "START_DESC": "FEET ABOVE CONFLUENCE WITH APPOMATTOX RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.632357789877062, 37.075917475545388 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51053C", "VERSION_ID": "1.1.1.0", "START_ID": "116115R1_10", "START_DESC": "FEET ABOVE CONFLUENCE WITH JAMES RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.632357789877062, 37.075917475545388 ] } }
+]
+}

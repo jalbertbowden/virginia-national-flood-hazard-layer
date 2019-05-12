@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51069C", "VERSION_ID": "1.1.1.0", "START_ID": "51069C_51069C_2", "START_DESC": "Stream distance in feet above Abrams Creek", "LOC_ACC": "Low", "SOURCE_CIT": "51069C_" }, "geometry": { "type": "Point", "coordinates": [ -78.260665822071985, 39.203917793755885 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51069C", "VERSION_ID": "1.1.1.0", "START_ID": "51069C_51069C_3", "START_DESC": "Stream distance in feet upstream from U.S. Route 50", "LOC_ACC": "Low", "SOURCE_CIT": "51069C_" }, "geometry": { "type": "Point", "coordinates": [ -78.260665822071985, 39.203917793755885 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51069C", "VERSION_ID": "1.1.1.0", "START_ID": "51069C_51069C_4", "START_DESC": "Stream distance in feet above confluence with Opequon Creek", "LOC_ACC": "Low", "SOURCE_CIT": "51069C_" }, "geometry": { "type": "Point", "coordinates": [ -78.260665822071985, 39.203917793755885 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51069C", "VERSION_ID": "1.1.1.0", "START_ID": "51069C_51069C_5", "START_DESC": "Stream distance in feet above confluence with Back Creek", "LOC_ACC": "Low", "SOURCE_CIT": "51069C_" }, "geometry": { "type": "Point", "coordinates": [ -78.260665822071985, 39.203917793755885 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51069C", "VERSION_ID": "1.1.1.0", "START_ID": "51069C_51069C_6", "START_DESC": "Stream distance in feet above Limit of Detailed Study", "LOC_ACC": "Low", "SOURCE_CIT": "51069C_" }, "geometry": { "type": "Point", "coordinates": [ -78.260665822071985, 39.203917793755885 ] } }
+]
+}

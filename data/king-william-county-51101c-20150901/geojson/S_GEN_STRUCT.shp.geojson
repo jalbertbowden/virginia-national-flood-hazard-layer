@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "S_GEN_STRUCT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51101C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51101C_81", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": null, "WTR_NM": "MONCUIN CREEK", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51101C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.146441040584648, 37.7121450375016 ], [ -77.146299611616712, 37.712252815731439 ], [ -77.146228370644224, 37.712318474877669 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51101C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51101C_82", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": null, "WTR_NM": "MONCUIN CREEK", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51101C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.147336325189428, 37.714590851829115 ], [ -77.14701029781213, 37.714968351974576 ], [ -77.146878340399383, 37.715131848932579 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51101C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51101C_83", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": null, "WTR_NM": "MONCUIN CREEK", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51101C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.14730206938242, 37.714931124519602 ], [ -77.146927979625389, 37.71540302720463 ] ] } }
+]
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_12", "START_DESC": "Feet above confluence of Dan River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_3", "START_DESC": "Feet above confluence of Leatherwood Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_5", "START_DESC": "Feet above confluence of Beaver Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_10", "START_DESC": "Feet above confluence of Jordan Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_7", "START_DESC": "Feet above confluence of Marrowbone Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_11", "START_DESC": "Feet above confluence of West Fork Leatherwood Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_4", "START_DESC": "Feet above confluence of Little Beaver Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_9", "START_DESC": "Feet above confluence of Mulberry Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_6", "START_DESC": "Feet above confluence of Jones Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_2", "START_DESC": "Feet above confluence of Smith River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_1", "START_DESC": "Feet above confluence of Tanyard Branch", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51089C", "VERSION_ID": "1.1.1.0", "START_ID": "1541543_8", "START_DESC": "Feet above confluence of Reed Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.873387371014701, 36.682654004956206 ] } }
+]
+}

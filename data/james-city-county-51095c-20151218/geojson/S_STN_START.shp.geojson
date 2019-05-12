@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51095C", "VERSION_ID": "1.1.1.0", "START_ID": "51095C_1", "START_DESC": "FEET ABOVE CONFLUENCE WITH JAMES RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "NP" }, "geometry": { "type": "Point", "coordinates": [ -76.770576950363306, 37.311251511549315 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51095C", "VERSION_ID": "1.1.1.0", "START_ID": "51095C_2", "START_DESC": "FEET ABOVE CONFLUENCE WITH POWHATAN CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "NP" }, "geometry": { "type": "Point", "coordinates": [ -76.770576950363306, 37.311251511549315 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51095C", "VERSION_ID": "1.1.1.0", "START_ID": "51095C_3", "START_DESC": "FEET ABOVE CONFLUENCE WITH LONG HILL SWAMP", "LOC_ACC": "Low", "SOURCE_CIT": "NP" }, "geometry": { "type": "Point", "coordinates": [ -76.770576950363306, 37.311251511549315 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51095C", "VERSION_ID": "1.1.1.0", "START_ID": "51095C_4", "START_DESC": "FEET ABOVE CONFLUENCE WITH CHISEL RUN", "LOC_ACC": "Low", "SOURCE_CIT": "NP" }, "geometry": { "type": "Point", "coordinates": [ -76.770576950363306, 37.311251511549315 ] } }
+]
+}

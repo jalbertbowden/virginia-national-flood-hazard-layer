@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510129", "VERSION_ID": "1.1.1.0", "START_ID": "510129_1", "START_DESC": "FEET ABOVE CONFLUENCE WITH BACONS QUARTER BRANCH", "LOC_ACC": "Low", "SOURCE_CIT": "510129_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.475521555059387, 37.529458077561195 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510129", "VERSION_ID": "1.1.1.0", "START_ID": "510129_2", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": "510129_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.475521555059387, 37.529458077561195 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510129", "VERSION_ID": "1.1.1.0", "START_ID": "510129_3", "START_DESC": "MILES ABOVE MOUTH, BASED ON HISTORICAL MILEPOST STATIONING", "LOC_ACC": "Low", "SOURCE_CIT": "510129_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.475521555059387, 37.529458077561195 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510129", "VERSION_ID": "1.1.1.0", "START_ID": "510129_4", "START_DESC": "FEET ABOVE CANAL", "LOC_ACC": "Low", "SOURCE_CIT": "510129_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.475521555059387, 37.529458077561195 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510129", "VERSION_ID": "1.1.1.0", "START_ID": "510129_5", "START_DESC": "FEET ABOVE CORPORATE LIMITS", "LOC_ACC": "Low", "SOURCE_CIT": "510129_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.475521555059387, 37.529458077561195 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510129", "VERSION_ID": "1.1.1.0", "START_ID": "510129_6", "START_DESC": "FEET ABOVE CONFLUENCE WITH SHOCKOE CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "510129_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.475521555059387, 37.529458077561195 ] } }
+]
+}

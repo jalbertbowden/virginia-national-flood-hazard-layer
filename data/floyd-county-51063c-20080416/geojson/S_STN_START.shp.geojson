@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_4", "START_DESC": "DISTANCE IN FEET ABOVE LIMIT OF DETAILED STUDY IS APPROXIMATELY 4.4 MILES UPSTREAM OF STATE ROAD 617", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_5", "START_DESC": "DISTANCE IN FEET ABOVE LIMIT OF DETAILED STUDY IS APPROXIMATELY 3500 FEET DOWNSTREAM OF U.S. ROUTE 221", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_8", "START_DESC": "DISTANCE IN FEET ABOVE LIMIT OF DETAILED STUDY IS APPROXIMATELY 3800 FEET DOWNSTREAM OF STATE HIGHWAY 8", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_2", "START_DESC": "DISTANCE IN FEET ABOVE LIMIT OF DETAILED STUDY IS APPROXIMATELY 600 FEET DOWNSTREAM OF U.S. ROUTE 221", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_7", "START_DESC": "DISTANCE IN FEET ABOVE LIMIT OF DETAILED STUDY IS APPROXIMATELY 1400 FEET DOWNSTREAM OF U.S. ROUTE 221", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_6", "START_DESC": "DISTANCE IN FEET ABOVE LIMIT OF DETAILED STUDY IS APPROXIMATELY 1450 FEET DOWNSTREAM OF STATE ROAD 642", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_1", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH WEST FORK LITTLE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51063C", "VERSION_ID": "1.1.1.0", "START_ID": "1520225_3", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH NEW RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.362559617702402, 36.931490199882141 ] } }
+]
+}

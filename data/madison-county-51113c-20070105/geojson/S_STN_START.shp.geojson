@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51113C", "VERSION_ID": "1.1.1.0", "START_ID": "1438217_2", "START_DESC": "Stream distance in thousands of feet above confluence with Leathers Run", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.279266190919941, 38.413688070418793 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51113C", "VERSION_ID": "1.1.1.0", "START_ID": "1438217_3", "START_DESC": "Stream distance in thousands of feet above USGS gage no. 01666500", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.279266190919941, 38.413688070418793 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51113C", "VERSION_ID": "1.1.1.0", "START_ID": "1438217_1", "START_DESC": "Stream distance in feet above study limit (Study limit : 450 feet downstream of confluence with Robinson River)", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.279266190919941, 38.413688070418793 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51113C", "VERSION_ID": "1.1.1.0", "START_ID": "1438217_4", "START_DESC": "Stream distance in feet above study limit (Study limit : 950 feet downstream of State Route 231)", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.279266190919941, 38.413688070418793 ] } }
+]
+}

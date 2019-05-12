@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_1", "START_DESC": "FEET ABOVE ROANOKE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_2", "START_DESC": "FEET ABOVE CRAB CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_3", "START_DESC": "FEET ABOVE STROUBLES CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_4", "START_DESC": "FEET ABOVE SOUTH FORK ROANOKE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_5", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_6", "START_DESC": "FEET ABOVE NORTH FORK ROANOKE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_7", "START_DESC": "FEET ABOVE NEW RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51121C", "VERSION_ID": "1.1.1.0", "START_ID": "51121C_8", "START_DESC": "MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -80.51846526306025, 37.132114074521787 ] } }
+]
+}

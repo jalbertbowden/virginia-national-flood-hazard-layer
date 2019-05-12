@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_GAGE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51107C", "VERSION_ID": "2.3.3.2", "GAGE_ID": "51107C_1", "GAGE_OWNID": null, "WTR_NM": "SOUTH FORK BROAD RUN", "AGENCY": "USGS", "DTA_ACCESS": null, "GAGE_DESC": "SF Broad Run near Arcola, VA", "GAGE_TYP": "Flow", "REC_INTRVL": null, "TIME_UNIT": null, "START_PD": "1966\/02\/13", "END_PD": "1973\/04\/27", "DRAIN_AREA": 3.91, "AREA_UNIT": "Square Miles", "SOURCE_CIT": "51107C_BASE2" }, "geometry": { "type": "Point", "coordinates": [ -77.551385525264322, 38.941666664128967 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51107C", "VERSION_ID": "2.3.3.2", "GAGE_ID": "51107C_2", "GAGE_OWNID": null, "WTR_NM": "BROAD RUN", "AGENCY": "USGS", "DTA_ACCESS": null, "GAGE_DESC": "Broad Run near Leesburg, VA", "GAGE_TYP": "Flow", "REC_INTRVL": null, "TIME_UNIT": null, "START_PD": "2002\/04\/28", "END_PD": "2013\/01\/31", "DRAIN_AREA": 76.1, "AREA_UNIT": "Square Miles", "SOURCE_CIT": "51107C_BASE2" }, "geometry": { "type": "Point", "coordinates": [ -77.432218964418155, 39.046388914799138 ] } }
+]
+}

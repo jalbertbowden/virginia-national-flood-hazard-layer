@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_RIV_MRK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51107C", "VERSION_ID": "2.3.3.2", "RIV_MRK_ID": "51107C_1", "START_ID": "51107C_34", "RIV_MRK_NO": "M17", "SOURCE_CIT": "51107C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -77.332503051421654, 39.060451653055459 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51107C", "VERSION_ID": "2.3.3.2", "RIV_MRK_ID": "51107C_2", "START_ID": "51107C_34", "RIV_MRK_NO": "M48", "SOURCE_CIT": "51107C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -77.602570660506728, 39.302156457162376 ] } }
+]
+}

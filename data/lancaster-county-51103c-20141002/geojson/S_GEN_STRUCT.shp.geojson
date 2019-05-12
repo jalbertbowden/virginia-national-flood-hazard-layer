@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_GEN_STRUCT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51103C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51103C_81", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": "NORRIS BRIDGE", "WTR_NM": null, "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51103C_BASE5" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.412106252688488, 37.635471550557945 ], [ -76.413190389520537, 37.634365320852119 ] ] } }
+]
+}

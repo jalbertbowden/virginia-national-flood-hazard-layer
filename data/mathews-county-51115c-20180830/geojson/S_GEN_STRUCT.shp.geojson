@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_GEN_STRUCT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51115C", "VERSION_ID": "1.1.1.0", "STRUCT_ID": "51115C_81", "STRUCT_TYP": "Bridge", "CST_STRUCT": null, "STRUCT_NM": "TWIGG BRIDGE", "WTR_NM": "Piankatank River", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "U", "SOURCE_CIT": "51115C_FIRM1" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.419944976940769, 37.507421393934791 ], [ -76.419897000999399, 37.510296998411967 ] ] } }
+]
+}

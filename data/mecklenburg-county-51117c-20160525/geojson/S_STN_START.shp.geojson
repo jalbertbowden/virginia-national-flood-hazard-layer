@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51117C", "VERSION_ID": "1.1.1.0", "START_ID": "51117C_1", "START_DESC": "FEET ABOVE CONFLUENCE WITH BLUESTONE CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.362671208491292, 36.680354456219021 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51117C", "VERSION_ID": "1.1.1.0", "START_ID": "51117C_2", "START_DESC": "FEET ABOVE CONFLUENCE WITH LITTLE BLUESTONE CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.362671208491292, 36.680354456219021 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51117C", "VERSION_ID": "1.1.1.0", "START_ID": "51117C_3", "START_DESC": "FEET ABOVE CONFLUENCE WITH WOODPECKER CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.362671208491292, 36.680354456219021 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51117C", "VERSION_ID": "1.1.1.0", "START_ID": "51117C_4", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.362671208491292, 36.680354456219021 ] } }
+]
+}

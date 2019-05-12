@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51015C", "VERSION_ID": "1.1.1.0", "START_ID": "51015C_1", "START_DESC": "Stream distance in feet above confluence with Lewis Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.128849019000981, 38.162882711414646 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51015C", "VERSION_ID": "1.1.1.0", "START_ID": "51015C_2", "START_DESC": "Stream distance in feet above confluence with Christians Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.128849019000981, 38.162882711414646 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51015C", "VERSION_ID": "1.1.1.0", "START_ID": "51015C_3", "START_DESC": "Stream distance in feet above confluence with Middle River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.128849019000981, 38.162882711414646 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51015C", "VERSION_ID": "1.1.1.0", "START_ID": "51015C_5", "START_DESC": "Stream distance in feet above county boundary", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.128849019000981, 38.162882711414646 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51015C", "VERSION_ID": "1.1.1.0", "START_ID": "51015C_6", "START_DESC": "Stream distance in feet above confluence with South River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.128849019000981, 38.162882711414646 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51015C", "VERSION_ID": "1.1.1.0", "START_ID": "51015C_7", "START_DESC": "Stream distance in feet above confluence with North River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.128849019000981, 38.162882711414646 ] } }
+]
+}

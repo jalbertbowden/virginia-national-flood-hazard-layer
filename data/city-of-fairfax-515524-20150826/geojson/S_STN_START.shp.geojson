@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_9", "START_DESC": "FEET ABOVE CONFLUENCE WITH ACCOTINK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_1", "START_DESC": "FEET ABOVE CORPORATE LIMITS", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_2", "START_DESC": "FEET ABOVE CONFLUENCE WITH NORTH FORK ACCOTINK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_3", "START_DESC": "FEET ABOVE CONFLUENCE WITH ACCOTINK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_4", "START_DESC": "FEET ABOVE CONFLUENCE WITH ACCOTINK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_5", "START_DESC": "FEET ABOVE CONFLUENCE WITH DANIELS RUN", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_6", "START_DESC": "FEET ABOVE CONFLUENCE WITH NORTH FORK ACCOTINK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_7", "START_DESC": "FEET ABOVE CONFLUENCE WITH ACCOTINK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515524", "VERSION_ID": "1.1.1.0", "START_ID": "515524_8", "START_DESC": "FEET ABOVE CONFLUENCE WITH ACCOTINK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "515524_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.300031109427152, 38.852922287852735 ] } }
+]
+}

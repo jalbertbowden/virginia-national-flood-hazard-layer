@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_1", "START_DESC": "FEET ABOVE CONFUENCE WITH POTOMAC CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_2", "START_DESC": "FEET ABOVE CONFUENCE WITH POTOMAC RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_3", "START_DESC": "FEET ABOVE CONFUENCE WITH AQUIA CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_4", "START_DESC": "FEET ABOVE CONFUENCE WITH RAPPAHANNOCK RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_5", "START_DESC": "FEET ABOVE LIMIT OF DETAILED STUDY; LIMIT OF DETAILED STUDY IS LOCATED 4,680 FEET DOWNSTREAM OF U.S. ROUTE 1", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_6", "START_DESC": "FEET ABOVE CONFUENCE WITH CHESAPEAKE BAY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_7", "START_DESC": "FEET ABOVE CONFUENCE WITH TRIBUTARY 3 TO AUSTIN RUN", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_8", "START_DESC": "FEET ABOVE CONFUENCE WITH AUSTIN RUN", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51179C", "VERSION_ID": "1.1.1.0", "START_ID": "51179C_9", "START_DESC": "FEET ABOVE ORIGIN OF STUDY; ORIGIN OF STUDY IS LOCATED AT UPSTREAM BOUNDARY OF QUANTICO MARINE CORPS SCHOOL", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -77.456747429275254, 38.420613748281028 ] } }
+]
+}

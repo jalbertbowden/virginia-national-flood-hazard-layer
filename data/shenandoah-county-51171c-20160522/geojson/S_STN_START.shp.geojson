@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51171C", "VERSION_ID": "1.1.1.0", "START_ID": "51171C_1", "START_DESC": "FEET ABOVE CONFLUENCE WITH NORTH FORK SHENANDOAH RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.570684954944781, 38.858424918252389 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51171C", "VERSION_ID": "1.1.1.0", "START_ID": "51171C_2", "START_DESC": "FEET ABOVE COUNTY BOUNDARY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.570684954944781, 38.858424918252389 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51171C", "VERSION_ID": "1.1.1.0", "START_ID": "51171C_3", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.570684954944781, 38.858424918252389 ] } }
+]
+}

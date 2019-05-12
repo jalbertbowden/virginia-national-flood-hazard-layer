@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51157C", "VERSION_ID": "1.1.1.0", "START_ID": "1442152_2", "START_DESC": "Stream distance in feet above State Route 620", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.159269451933127, 38.684698721332602 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51157C", "VERSION_ID": "1.1.1.0", "START_ID": "1442152_3", "START_DESC": "Stream distance in feet above confluence with Thornton River", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.159269451933127, 38.684698721332602 ] } }
+]
+}

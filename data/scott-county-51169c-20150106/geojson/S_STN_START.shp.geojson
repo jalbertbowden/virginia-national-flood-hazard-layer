@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51169C", "VERSION_ID": "1.1.1.0", "START_ID": "51169C_5", "START_DESC": "MILES ABOVE CONFLUENCE WITH POSSUM CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "51169C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -82.602980795486587, 36.714163812706779 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51169C", "VERSION_ID": "1.1.1.0", "START_ID": "51169C_7", "START_DESC": "MILES ABOVE CONFLUENCE WITH BIG MOCCASIN CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "51169C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -82.602980795486587, 36.714163812706779 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51169C", "VERSION_ID": "1.1.1.0", "START_ID": "51169C_6", "START_DESC": "MILES ABOVE CONFLUENCE WITH MOCCASIN CREEK", "LOC_ACC": "Low", "SOURCE_CIT": "51169C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -82.602980795486587, 36.714163812706779 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51169C", "VERSION_ID": "1.1.1.0", "START_ID": "51169C_4", "START_DESC": "MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": "51169C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -82.602980795486587, 36.714163812706779 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51169C", "VERSION_ID": "1.1.1.0", "START_ID": "51169C_1", "START_DESC": "MILES ABOVE CONFLUENCE WITH HOLSTON RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51169C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -82.602980795486587, 36.714163812706779 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51169C", "VERSION_ID": "1.1.1.0", "START_ID": "51169C_3", "START_DESC": "MILES ABOVE CONFLUENCE WITH NORTH FORK HOLSTON RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51169C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -82.602980795486587, 36.714163812706779 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51169C", "VERSION_ID": "1.1.1.0", "START_ID": "51169C_2", "START_DESC": "MILES ABOVE CONFLUENCE WITH CLINCH RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "51169C_FIRM1" }, "geometry": { "type": "Point", "coordinates": [ -82.602980795486587, 36.714163812706779 ] } }
+]
+}

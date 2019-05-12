@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_GEN_STRUCT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510308", "VERSION_ID": "2.3.2.0", "STRUCT_ID": "510308_1", "STRUCT_TYP": "1 PCT Annual Chance Flood Discharge Contained In Structure", "CST_STRUCT": null, "STRUCT_NM": "Railroad", "WTR_NM": "Deep Run", "LOC_DESC": null, "STRUC_DESC": null, "SHOWN_FIRM": "T", "SOURCE_CIT": "510308_LOMC1" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.454967550926426, 38.267566067415956 ], [ -77.455108820114219, 38.267408623766599 ], [ -77.4553338075292, 38.267336627112755 ] ] } }
+]
+}

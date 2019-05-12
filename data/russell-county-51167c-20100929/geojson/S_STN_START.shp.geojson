@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51167C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_1", "START_DESC": "MILES ABOVE CONFLUENCE WITH CLINCH RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.095673526413009, 36.933706757260637 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51167C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_3", "START_DESC": "MILES ABOVE CONFLUENCE WITH TENNESSEE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.095673526413009, 36.933706757260637 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51167C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_2", "START_DESC": "MILES ABOVE CONFLUENCE WITH LITTLE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.095673526413009, 36.933706757260637 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51167C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_4", "START_DESC": "MILES ABOVE CONFLUENCE WITH BIG CEDAR CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.095673526413009, 36.933706757260637 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51167C", "VERSION_ID": "1.1.1.0", "START_ID": "11104R2_5", "START_DESC": "FEET ABOVE CONFLUENCE WITH LICK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.095673526413009, 36.933706757260637 ] } }
+]
+}

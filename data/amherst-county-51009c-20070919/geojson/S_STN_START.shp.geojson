@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51009C", "VERSION_ID": "1.1.1.0", "START_ID": "1466232_1", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH JAMES RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.145425547542686, 37.605386801927658 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51009C", "VERSION_ID": "1.1.1.0", "START_ID": "1466232_5", "START_DESC": "STREAM DISTANCE IN FEET ABOVE U.S. ROUTE 60", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.145425547542686, 37.605386801927658 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51009C", "VERSION_ID": "1.1.1.0", "START_ID": "1466232_4", "START_DESC": "STREAM DISTANCE IN FEET ABOVE ROSES MILL", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.145425547542686, 37.605386801927658 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51009C", "VERSION_ID": "1.1.1.0", "START_ID": "1466232_2", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH THE CHESAPEAKE BAY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.145425547542686, 37.605386801927658 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51009C", "VERSION_ID": "1.1.1.0", "START_ID": "1466232_8", "START_DESC": "STREAM DISTANCE IN FEET UPSTREAM FROM SOUTHERN RAILROAD", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.145425547542686, 37.605386801927658 ] } }
+]
+}

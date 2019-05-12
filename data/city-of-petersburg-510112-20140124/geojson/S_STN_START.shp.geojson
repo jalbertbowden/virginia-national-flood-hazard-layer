@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510112", "VERSION_ID": "1.1.1.0", "START_ID": "510112_1", "START_DESC": "DISTANCES ARE MEASURED IN FEET ABOVE CONFLUENCE WITH BLACKWATER SWAMP", "LOC_ACC": "Low", "SOURCE_CIT": "510112_" }, "geometry": { "type": "Point", "coordinates": [ -77.391275730041343, 37.204336415130562 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510112", "VERSION_ID": "1.1.1.0", "START_ID": "510112_2", "START_DESC": "DISTANCES ARE MEASURED IN FEET ABOVE CORPORATE LIMITS", "LOC_ACC": "Low", "SOURCE_CIT": "510112_" }, "geometry": { "type": "Point", "coordinates": [ -77.391275730041343, 37.204336415130562 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510112", "VERSION_ID": "1.1.1.0", "START_ID": "510112_3", "START_DESC": "DISTANCES ARE MEASURED IN FEET ABOVE CONFLUENCE WITH APPOMATTOX RIVER NAVIGATION CHANNEL", "LOC_ACC": "Low", "SOURCE_CIT": "510112_" }, "geometry": { "type": "Point", "coordinates": [ -77.391275730041343, 37.204336415130562 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510112", "VERSION_ID": "1.1.1.0", "START_ID": "510112_4", "START_DESC": "DISTANCES ARE MEASURED IN MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": "510112_" }, "geometry": { "type": "Point", "coordinates": [ -77.391275730041343, 37.204336415130562 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510112", "VERSION_ID": "1.1.1.0", "START_ID": "510112_5", "START_DESC": "DISTANCES ARE MEASURED IN FEET ABOVE CONFLUENCE WITH APPOMATTOX RIVER", "LOC_ACC": "Low", "SOURCE_CIT": "510112_" }, "geometry": { "type": "Point", "coordinates": [ -77.391275730041343, 37.204336415130562 ] } }
+]
+}

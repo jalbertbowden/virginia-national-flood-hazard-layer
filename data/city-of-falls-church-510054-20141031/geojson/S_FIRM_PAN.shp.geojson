@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_FIRM_PAN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510054", "VERSION_ID": "1.1.1.0", "FIRM_ID": "510054_11104R2_682", "ST_FIPS": "51", "PCOMM": "0054", "PANEL": "0002", "SUFFIX": "C", "FIRM_PAN": "5100540002C", "PANEL_TYP": "Community Based, Not Printed", "PRE_DATE": "9999\/09\/09", "EFF_DATE": "2004\/07\/16", "SCALE": "6000", "PNP_REASON": "NO SPECIAL FLOOD HAZARD AREAS", "BASE_TYP": "NP", "SOURCE_CIT": "510054_11104R2_STUDY1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.156807204534161, 38.869765147566518 ], [ -77.157683243494191, 38.898720977715961 ], [ -77.136903285407527, 38.899103302696837 ], [ -77.136035667644876, 38.870147082264801 ], [ -77.156807204534161, 38.869765147566518 ] ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510054", "VERSION_ID": "1.1.1.0", "FIRM_ID": "510054_11104R2_683", "ST_FIPS": "51", "PCOMM": "0054", "PANEL": "0001", "SUFFIX": "C", "FIRM_PAN": "5100540001C", "PANEL_TYP": "Community Based, Panel Printed", "PRE_DATE": "9999\/09\/09", "EFF_DATE": "2004\/07\/16", "SCALE": "6000", "PNP_REASON": null, "BASE_TYP": "NP", "SOURCE_CIT": "510054_11104R2_STUDY1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.195333348331701, 38.898018830588491 ], [ -77.157683243494191, 38.898720977715961 ], [ -77.156807204534161, 38.869765147566518 ], [ -77.194442050371549, 38.869063724688267 ], [ -77.195333348331701, 38.898018830588491 ] ] ] } }
+]
+}

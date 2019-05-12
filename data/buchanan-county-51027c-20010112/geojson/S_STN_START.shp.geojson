@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_5", "START_DESC": "Feet above county boundary", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_6", "START_DESC": "Feet above confluence with Guess Fork", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_12", "START_DESC": "Feet above confluence with Big Prater Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_7", "START_DESC": "Feet above state boundary", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_3", "START_DESC": "Feet above confluence with Knox Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_11", "START_DESC": "Feet above confluence with Fox Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_1", "START_DESC": "Feet above confluence with Levisa Fork", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_2", "START_DESC": "Feet above Dickenson\/Buchanan County Boundary", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_4", "START_DESC": "Feet above confluence with Russell Fork", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_10", "START_DESC": "Feet above confluence with Pawpaw Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_8", "START_DESC": "Feet above confluence with Greenbrier Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51027C", "VERSION_ID": "1.1.1.0", "START_ID": "280673_9", "START_DESC": "Feet above confluence with Garden Creek", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -82.036092387960068, 37.266595143360533 ] } }
+]
+}

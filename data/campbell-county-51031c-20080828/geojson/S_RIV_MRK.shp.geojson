@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "S_RIV_MRK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_2", "START_ID": "1537985_5", "RIV_MRK_NO": "M245", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.063989276263428, 37.407095402513953 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_1", "START_ID": "1537985_5", "RIV_MRK_NO": "M246", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.060667526440113, 37.391299030462463 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_3", "START_ID": "1537985_5", "RIV_MRK_NO": "M244", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.070673509359821, 37.421211705086293 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_7", "START_ID": "1537985_5", "RIV_MRK_NO": "M240", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.023203591619506, 37.428944683721149 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_4", "START_ID": "1537985_5", "RIV_MRK_NO": "M243", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.052615532417178, 37.416832661488769 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_5", "START_ID": "1537985_5", "RIV_MRK_NO": "M242", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.040288599393762, 37.422149808140119 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_2", "START_ID": "1537985_5", "RIV_MRK_NO": "M245", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.063989276263428, 37.407095402513953 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_1", "START_ID": "1537985_5", "RIV_MRK_NO": "M246", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.060667526440113, 37.391299030462463 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_3", "START_ID": "1537985_5", "RIV_MRK_NO": "M244", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.070673509359821, 37.421211705086293 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_7", "START_ID": "1537985_5", "RIV_MRK_NO": "M240", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.023203591619506, 37.428944683721149 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_4", "START_ID": "1537985_5", "RIV_MRK_NO": "M243", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.052615532417178, 37.416832661488769 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_5", "START_ID": "1537985_5", "RIV_MRK_NO": "M242", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.040288599393762, 37.422149808140119 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_0", "START_ID": "1537985_5", "RIV_MRK_NO": "M247", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.07519001754514, 37.388516907824666 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_6", "START_ID": "1537985_5", "RIV_MRK_NO": "M241", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.041322757794433, 37.433576693277914 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_0", "START_ID": "1537985_5", "RIV_MRK_NO": "M247", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.07519001754514, 37.388516907824666 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "RIV_MRK_ID": "1537985_6", "START_ID": "1537985_5", "RIV_MRK_NO": "M241", "SOURCE_CIT": "1537985_FIS1" }, "geometry": { "type": "Point", "coordinates": [ -79.041322757794433, 37.433576693277914 ] } }
+]
+}

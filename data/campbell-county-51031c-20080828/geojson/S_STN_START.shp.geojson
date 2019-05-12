@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_9", "START_DESC": "DISTANCE IN MILES ABOVE CONFLUENCE WITH ROANOKE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_5", "START_DESC": "DISTANCE IN MILES ABOVE CONFLUENCE WITH CHESAPEAKE BAY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_4", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH BURTON CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_8", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH BEAVER CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_7", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH TUSSOCKY CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_6", "START_DESC": "DISTANCE IN MILES ABOVE CONFLUENCE WITH ALBEMARLE SOUND", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_2", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH ROANOKE RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_1", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH JAMES RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_3", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH BIG OTTER RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51031C", "VERSION_ID": "1.1.1.0", "START_ID": "1537985_10", "START_DESC": "DISTANCE IN FEET ABOVE CONFLUENCE WITH BLACKWATER CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.096217516925492, 37.205328051068228 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510043", "VERSION_ID": "1.1.1.0", "START_ID": "10622R1_1", "START_DESC": "MILES ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -78.244669076599735, 37.512503532863036 ] } }
+]
+}

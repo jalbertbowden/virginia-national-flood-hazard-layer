@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51047C", "VERSION_ID": "1.1.1.0", "START_ID": "2", "START_DESC": "Stream distance in feet above Town of Culpeper Corporate Limits", "LOC_ACC": "Low", "SOURCE_CIT": "NP" }, "geometry": { "type": "Point", "coordinates": [ -77.955853404223262, 38.486052132052663 ] } }
+]
+}

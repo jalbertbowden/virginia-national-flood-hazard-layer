@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "515527", "VERSION_ID": "1.1.1.0", "START_ID": "515527_1", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -76.302305354677571, 36.984586647016464 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "515527", "VERSION_ID": "1.1.1.0", "START_ID": "515527_2", "START_DESC": "FEET ABOVE CONFLUENCE WITH NEWMARKET CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -76.302305354677571, 36.984586647016464 ] } }
+]
+}

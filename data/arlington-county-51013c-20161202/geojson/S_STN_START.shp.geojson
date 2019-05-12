@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51013C", "VERSION_ID": "1.1.1.0", "START_ID": "51013C_3", "START_DESC": "FEET ABOVE JEFFERSON DAVIS MEMORIAL HIGHWAY", "LOC_ACC": "Low", "SOURCE_CIT": "51013C_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.101015179263001, 38.87857733211456 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51013C", "VERSION_ID": "1.1.1.0", "START_ID": "51013C_4", "START_DESC": "FEET ABOVE CONFLUENCE WITH LITTLE PIMMIT RUN", "LOC_ACC": "Low", "SOURCE_CIT": "51013C_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.101015179263001, 38.87857733211456 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51013C", "VERSION_ID": "1.1.1.0", "START_ID": "51013C_5", "START_DESC": "FEET ABOVE COUNTY BOUNDARY", "LOC_ACC": "Low", "SOURCE_CIT": "51013C_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.101015179263001, 38.87857733211456 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51013C", "VERSION_ID": "1.1.1.0", "START_ID": "51013C_6", "START_DESC": "FEET ABOVE CONFLUENCE OF CHESAPEAKE BAY", "LOC_ACC": "Low", "SOURCE_CIT": "51013C_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.101015179263001, 38.87857733211456 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51013C", "VERSION_ID": "1.1.1.0", "START_ID": "51013C_1", "START_DESC": "FEET ABOVE CONFLUENCE WITH FOUR MILE RUN", "LOC_ACC": "Low", "SOURCE_CIT": "51013C_STUDY1" }, "geometry": { "type": "Point", "coordinates": [ -77.101015179263001, 38.87857733211456 ] } }
+]
+}

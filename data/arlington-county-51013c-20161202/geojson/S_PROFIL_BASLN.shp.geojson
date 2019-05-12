@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "S_PROFIL_BASLN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51013C", "VERSION_ID": "1.1.1.0", "BASELN_ID": "51013C_123", "WTR_NM": "Rixey Branch", "SEGMT_NAME": null, "WATER_TYP": "Profile Baseline", "STUDY_TYP": "NP", "SHOWN_FIRM": "U", "R_ST_DESC": "NP", "R_END_DESC": "NP", "V_DATM_OFF": null, "DATUM_UNIT": null, "FLD_PROB1": null, "FLD_PROB2": null, "FLD_PROB3": null, "SPEC_CONS1": null, "SPEC_CONS2": null, "START_ID": "NP", "SOURCE_CIT": "51013C_BASE4" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.10666507453351, 38.909568315525597 ], [ -77.106593685567987, 38.909560323900919 ], [ -77.106417031635033, 38.909654515583114 ], [ -77.106078562364246, 38.910025087558452 ], [ -77.105780784633609, 38.910106416942099 ], [ -77.105501151112662, 38.91025544463276 ] ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51013C", "VERSION_ID": "1.1.1.0", "BASELN_ID": "51013C_118", "WTR_NM": "Rixey Branch", "SEGMT_NAME": null, "WATER_TYP": "Profile Baseline", "STUDY_TYP": "NP", "SHOWN_FIRM": "U", "R_ST_DESC": "NP", "R_END_DESC": "NP", "V_DATM_OFF": null, "DATUM_UNIT": null, "FLD_PROB1": null, "FLD_PROB2": null, "FLD_PROB3": null, "SPEC_CONS1": null, "SPEC_CONS2": null, "START_ID": "NP", "SOURCE_CIT": "51013C_BASE4" }, "geometry": { "type": "LineString", "coordinates": [ [ -77.105501151112662, 38.91025544463276 ], [ -77.105215491786268, 38.910309883810342 ], [ -77.104408057427008, 38.910573218450736 ], [ -77.104117866632052, 38.910677383292814 ], [ -77.103820340358595, 38.9107947444 ], [ -77.103584769476072, 38.910889632828237 ], [ -77.103219678482219, 38.910730245624123 ] ] } }
+]
+}

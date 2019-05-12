@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_1", "START_DESC": "FEET ABOVE MOUTH", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_2", "START_DESC": "FEET ABOVE COUNTY BOUNDARY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_3", "START_DESC": "FEET ABOVE CONFLUENCE WITH JAMES RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_4", "START_DESC": "FEET ABOVE CONFLUENCE WITH CRAIG CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_5", "START_DESC": "FEET ABOVE CONFLUENCE WITH LOONEY MILL CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_6", "START_DESC": "FEET ABOVE CONFLUENCE WITH GLADE CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_7", "START_DESC": "FEET ABOVE STATE ROUTE 640", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_8", "START_DESC": "FEET ABOVE CONFLUENCE WITH BACK CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_9", "START_DESC": "FEET ABOVE RAILROAD", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_10", "START_DESC": "FEET ABOVE CONFLUENCE WITH ELLIS RUN", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_11", "START_DESC": "FEET ABOVE LIMIT OF DETAILED STUDY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51023C", "VERSION_ID": "1.1.1.0", "START_ID": "01217R1_12", "START_DESC": "FEET ABOVE CONFLUENCE WITH JACKSON RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.812274661665413, 37.55717149558685 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "51021C", "VERSION_ID": "1.1.1.0", "START_ID": "1514049_4", "START_DESC": "DISTANCE IN  FEET ABOVE LIMIT OF DETAILED STUDY\/LIMIT OF DETAILED STUDY IS APPROXIMATELY 2.8 MILES DOWNSTREAM FROM CONFLUENCE OF HUNTING CAMP CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.13027133032648, 37.13396592333099 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51021C", "VERSION_ID": "1.1.1.0", "START_ID": "1514049_3", "START_DESC": "DISTANCE IN  FEET ABOVE CONFLUENCE WITH LAUREL CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.13027133032648, 37.13396592333099 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51021C", "VERSION_ID": "1.1.1.0", "START_ID": "1514049_1", "START_DESC": "DISTANCE IN  FEET ABOVE CONFLUENCE WITH WOLF CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.13027133032648, 37.13396592333099 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "51021C", "VERSION_ID": "1.1.1.0", "START_ID": "1514049_5", "START_DESC": "DISTANCE IN  FEET ABOVE LIMIT OF DETAILED STUDY\/LIMIT OF DETAILED STUDY IS APPROXIMATELY 1.6 MILES DOWNSTREAM FROM FIRST CROSSING OF STATE ROAD 614", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -81.13027133032648, 37.13396592333099 ] } }
+]
+}

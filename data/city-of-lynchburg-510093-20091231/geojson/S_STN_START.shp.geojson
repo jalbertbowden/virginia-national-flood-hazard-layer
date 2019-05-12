@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "S_STN_START",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510093", "VERSION_ID": "1.1.1.0", "START_ID": "10707R2_1", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH ROCK CASTLE CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.190844597255023, 37.400367669938632 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510093", "VERSION_ID": "1.1.1.0", "START_ID": "10707R2_2", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH BLACKWATER CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.190844597255023, 37.400367669938632 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510093", "VERSION_ID": "1.1.1.0", "START_ID": "10707R2_3", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH JAMES RIVER", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.190844597255023, 37.400367669938632 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510093", "VERSION_ID": "1.1.1.0", "START_ID": "10707R2_4", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH BURTON CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.190844597255023, 37.400367669938632 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510093", "VERSION_ID": "1.1.1.0", "START_ID": "10707R2_5", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH BURTON CREEK TRYBUTARY NO. 1", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.190844597255023, 37.400367669938632 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510093", "VERSION_ID": "1.1.1.0", "START_ID": "10707R2_6", "START_DESC": "STREAM DISTANCE IN MILES ABOVE CONFLUENCE WITH CHESAPEAKE BAY", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.190844597255023, 37.400367669938632 ] } },
+{ "type": "Feature", "properties": { "DFIRM_ID": "510093", "VERSION_ID": "1.1.1.0", "START_ID": "10707R2_7", "START_DESC": "STREAM DISTANCE IN FEET ABOVE CONFLUENCE WITH IVY CREEK", "LOC_ACC": "Low", "SOURCE_CIT": null }, "geometry": { "type": "Point", "coordinates": [ -79.190844597255023, 37.400367669938632 ] } }
+]
+}

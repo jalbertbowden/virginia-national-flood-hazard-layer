@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "S_BASE_INDEX",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DFIRM_ID": "510080", "VERSION_ID": "1.1.1.0", "BASE_ID": "510080_81", "FILENAME": "ortho_1-1_1n_s_va149_2012_1.sid", "BASE_DATE": "2013\/10\/30", "SOURCE_CIT": "510080_FIRM1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.511664393912042, 37.37488531784895 ], [ -76.935974077531853, 37.385716031979143 ], [ -76.924709539458988, 36.942939239448421 ], [ -77.497057714407219, 36.932279911746356 ], [ -77.511664393912042, 37.37488531784895 ] ] ] } }
+]
+}

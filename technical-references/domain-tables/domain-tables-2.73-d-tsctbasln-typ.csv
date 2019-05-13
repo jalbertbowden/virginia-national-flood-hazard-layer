@@ -1,0 +1,6 @@
+Coded Value,Type of Transect Baseline Source,Applies to Database Schema
+1000,Zero Foot Contour Field Survey,FIRM
+1010,Zero Foot Contour LiDAR / Shoals,FIRM
+1020,Zero Foot Contour Referenced to Tidal Datum,FIRM
+9000,Other Source,FIRM
+NP,NP,FIRM

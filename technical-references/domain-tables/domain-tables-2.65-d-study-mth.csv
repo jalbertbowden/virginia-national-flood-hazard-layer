@@ -1,0 +1,12 @@
+Coded Value,Study Method,When Used,Applies to Database Schema
+1000,New H&H,New fully detailed modeling,"FIRM, FRD"
+1010,BLE TIER A,"Auto placed cross sections, structures not included","FIRM, FRD"
+1020,BLE TIER B,"Intelligently placed cross sections, structures not included","FIRM, FRD"
+1030,BLE TIER C,"Cross sections reviewed by engineer, structures included","FIRM, FRD"
+1040,BLE TIER D,"Cross sections reviewed by engineer, structures with opening information","FIRM, FRD"
+1050,BLE TIER E,"Cross sections reviewed by engineer and with channel bathymetry, structures from field survey, as-builts, or measured in field","FIRM, FRD"
+1060,LSAE,Large Scale Automated Engineering,"FIRM, FRD"
+1100,REDELINEATION,Existing studies remapped on new topographic data,"FIRM, FRD"
+1200,DIGITAL CONVERSION,Existing studies digitized from existing scanned panels,"FIRM, FRD"
+9000,OTHER,OTHER,FRD
+NP,NP,NP; unshaded-X zones,FIRM

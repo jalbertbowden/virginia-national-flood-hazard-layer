@@ -1,0 +1,10 @@
+Coded Value,Type of Meeting,Applies to Database Schema
+1000,Final CCO,FIRM
+1010,Flood Risk Review,FIRM
+1020,Initial CCO,FIRM
+1030,Intermediate CCO,FIRM
+1040,Project Discovery,FIRM
+1050,Resilience,FIRM
+1060,Scoping,FIRM
+9000,Other,FIRM
+NP,NP,FIRM

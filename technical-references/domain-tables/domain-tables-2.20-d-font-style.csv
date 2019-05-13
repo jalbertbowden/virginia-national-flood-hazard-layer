@@ -1,0 +1,6 @@
+Coded Value,Font Style,Applies to Database Schema
+1000,Regular,FIRM
+2000,Bold,FIRM
+3000,Italic,FIRM
+4000,Bold Italic,FIRM
+NP,NP,FIRM

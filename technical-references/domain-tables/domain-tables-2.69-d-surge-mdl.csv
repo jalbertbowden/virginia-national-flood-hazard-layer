@@ -1,0 +1,10 @@
+Coded Value,Type of Surge Model,Applies to Database Schema
+1010,DYNLET,"FIRM, FRD"
+1020,FEMA Surge (1988),"FIRM, FRD"
+1040,MIKE 21 HD/NHD,"FIRM, FRD"
+1050,New England Tide Profile,"FIRM, FRD"
+1080,TABS RMA V.4.3 (Oct 1996),"FIRM, FRD"
+1090,USACE Great Lakes Tide Profile (1988),"FIRM, FRD"
+0100,ADCIRC (2003),"FIRM, FRD"
+0110,DELFT 3D,"FIRM, FRD"
+9000,OTHER,FRD

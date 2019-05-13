@@ -1,0 +1,5 @@
+Coded Value,Easement Type,Applies to Database Schema
+CONS,CONSERVATION,FRD
+DRAN,DRAINAGE,FRD
+FLOW,FLOWAGE,FRD
+NP,NP,FRD

@@ -1,0 +1,7 @@
+Coded Value,Type of Shoreline,Applies to Database Schema
+1000,Sandy Beach-Small Dune,FIRM
+1010,Sandy Beach-Large Dune,FIRM
+1020,Erodible Bluff,FIRM
+1030,Non-Erodible Bluff,FIRM
+1040,Shore Protection Structure,FIRM
+1050,Wetland,FIRM

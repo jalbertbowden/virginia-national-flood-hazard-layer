@@ -1,0 +1,5 @@
+Coded Value,Type of Levee Status,Applies to Database Schema
+A,Accredited,FIRM
+N,Non-Accredited,FIRM
+P,Provisionally Accredited,FIRM
+NP,NP,FIRM

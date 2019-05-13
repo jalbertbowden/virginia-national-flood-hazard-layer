@@ -1,0 +1,6 @@
+Coded Value,Type of Node,Applies to Database Schema
+1000,Diversion,FIRM
+1010,Junction,FIRM
+1020,Reservoir,FIRM
+1030,Structure,FIRM
+1040,Sub-Basin Outlet,FIRM

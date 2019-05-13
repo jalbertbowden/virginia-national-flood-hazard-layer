@@ -1,0 +1,26 @@
+Coded Value,FIRM Event Type Description,FRD Event Type Description,Applies to Database Schema
+AvgAnn,-,Average Annual,FRD
+50pct,50-Percent-Chance,50-Percent-Chance (2-yr),"FIRM, FRD"
+20pct,20-Percent-Chance,20-Percent-Chance (5-yr),FRD
+10pct,10-Percent-Chance,10-Percent-Chance (10-yr),"FIRM, FRD"
+04pct,4-Percent-Chance,4-Percent-Chance (25-yr),"FIRM, FRD"
+02pct,2-Percent-Chance,2-Percent-Chance (50-yr),"FIRM, FRD"
+01plus,1-Percent-Plus-Chance,1-Percent-Plus-Chance,"FIRM, FRD"
+01minus,1-Percent-Minus-Chance,1-Percent-Minus-Chance,"FIRM, FRD"
+01pct,1-Percent-Chance,1-Percent-Chance (100-yr),"FIRM, FRD"
+0_2pct,0.2-Percent-Chance,0.2-Percent-Chance (500-yr),"FIRM, FRD"
+0_5pct,-,0.5-Percent-Chance (200-yr),FRD
+01pctfut,1-Percent-Chance Future Conditions,-,FIRM
+PMF,-,Probable Maximum Flood,FRD
+PMF14,-,1/4 of Probable Maximum Flood,FRD
+PMF13,-,1/3 of Probable Maximum Flood,FRD
+PMF12,-,1/2 of Probable Maximum Flood,FRD
+PMF34,-,3/4 of Probable Maximum Flood,FRD
+PMP,-,Probable Maximum Precipitation,FRD
+PMP14,-,1/4 of Probable Maximum Precipitation,FRD
+PMP13,-,1/3 of Probable Maximum Precipitation,FRD
+PMP12,-,1/2 of Probable Maximum Precipitation,FRD
+PMP34,-,3/4 of Probable Maximum Precipitation,FRD
+SUN,-,Sunny Day,FRD
+FOR,-,Flood of Record,FRD
+OTH,-,Other,FRD

@@ -1,0 +1,5 @@
+Coded Value,Type of Coastal Structure Classification,,Applies to Database Schema
+1000,Beach Stabilization Structure,,FIRM
+2000,Coastal Armoring Structure,,FIRM
+3000,Miscellaneous Structure,,FIRM
+NP,NP,,FIRM

@@ -1,0 +1,35 @@
+Coded Value,Hazard Type Description,Applies to Database Schema
+AGR1,Agriculture,FRD
+COM1,Retail Trade,FRD
+COM2,Wholesale Trade,FRD
+COM3,Personal and Repair Services,FRD
+COM4,Business/Professional/Technical Services,FRD
+COM5,Banks,FRD
+COM6,Hospital,FRD
+COM7,Medical Office/Clinic,FRD
+COM8,Entertainment & Recreation,FRD
+COM9,Theaters,FRD
+COM10,Parking,FRD
+EDU1,Schools/Libraries,FRD
+EDU2,Colleges/Universities,FRD
+GOV1,General Services,FRD
+GOV2,Emergency Services,FRD
+IND1,Heavy Industrial,FRD
+IND2,Light Industrial,FRD
+IND3,Food/Drugs/Chemicals,FRD
+IND4,Metals/Minerals Processing,FRD
+IND5,High Technology,FRD
+IND6,Construction,FRD
+REL1,Church/Membership Organization,FRD
+RES1,Single Family Dwelling,FRD
+RES2,Mobile Home,FRD
+RES3A,Multi Family Dwelling - Duplex,FRD
+RES3B,Multi Family Dwelling – 3-4 Units,FRD
+RES3C,Multi Family Dwelling – 5-9 Units,FRD
+RES3D,Multi Family Dwelling – 10-19 Units,FRD
+RES3E,Multi Family Dwelling – 20-49 Units,FRD
+RES3F,Multi Family Dwelling – 50+ Units,FRD
+RES4,Temporary Lodging,FRD
+RES5,Institutional Dormitory,FRD
+RES6,Nursing Home,FRD
+NP,NP - Not Populated,FRD

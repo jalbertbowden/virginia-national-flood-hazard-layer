@@ -1,0 +1,5 @@
+Coded Value,Type of Coastline,Applies to Database Schema
+1000,Open Coast,FIRM
+2000,Sheltered Waters,FIRM
+3000,Combined Open Coast and Sheltered Waters,FIRM
+NP,NP,FIRM

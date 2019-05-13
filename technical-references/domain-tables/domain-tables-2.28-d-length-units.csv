@@ -1,0 +1,10 @@
+Coded Value,Type of Length Unit,Applies to Database Schema
+CM,Centimeters,"FIRM, FRD"
+FT,Feet,"FIRM, FRD"
+IN,Inches,FIRM
+KM,Kilometers,FIRM
+M,Meters,FIRM
+MI,Miles,FIRM
+MM,Millimeters,FIRM
+USFT,U.S. Survey Feet,"FIRM, FRD"
+NP,NP,"FIRM, FRD"

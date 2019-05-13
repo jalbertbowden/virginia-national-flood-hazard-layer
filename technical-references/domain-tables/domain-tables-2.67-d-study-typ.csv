@@ -1,0 +1,10 @@
+Coded Value,Type of Study,When Used,Applies to Database Schema
+1030,BLE available but unpublished,Base Level Engineering data are available but zones and Baseflood Elevations (BFEs) are not published on FIRM,"FIRM, FRD, Discovery"
+1000,Special Flood Hazard Area (SFHA) without BFE,Such as A zones without BFEs or water surface elevations,"FIRM, FRD, Discovery"
+1040,SFHA with unpublished BFE,Such as A zones with BFEs or water surface elevations calculated but not published in FIS Report,"FIRM, FRD, Discovery"
+1010,SFHA with BFE published only in FIS,Such as A zones with BFEs or water surface elevations published only in FIS Report,"FIRM, FRD, Discovery"
+1050,SFHA with BFE no floodway,Such as AE or VE zones with regulatory water surface elevations shaded-X zones that are associated or depths but no floodway; or with this type of study,"FIRM, FRD, Discovery"
+1060,SFHA with BFE and floodway,Such as AE or VE zones with regulatory water surface elevations shaded-X zones that are associated and a regulatory floodway; or with this type of study,"FIRM, FRD, Discovery"
+1070,Shaded Zone X with depths less than 1’,Such as Zone X with depths less than 1’,"FIRM, FRD, Discovery"
+9000,OTHER,OTHER,FRD
+NP,NP,NP; unshaded-X zones,"FIRM, Discovery"

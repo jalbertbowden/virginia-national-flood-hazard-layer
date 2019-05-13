@@ -1,0 +1,5 @@
+Coded Value,Type of Profile Baseline,Applies to Database Schema
+1000,Profile Baseline,FIRM
+2000,Profile Baseline and Stream Centerline,FIRM
+3000,Hydraulic Link,FIRM
+UNK,Unknown,FIRM

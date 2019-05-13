@@ -1,0 +1,8 @@
+Coded Value,Type of Panel,Applies to Database Schema
+1000,"Countywide, Panel Printed","FIRM, Discovery"
+1010,"Countywide, Not Printed","FIRM, Discovery"
+1020,"Community Based, Panel Printed","FIRM, Discovery"
+1030,"Community Based, Not Printed","FIRM, Discovery"
+1040,Unmapped Community,"FIRM, Discovery"
+1050,"Statewide, Panel Printed","FIRM, Discovery"
+1060,"Statewide, Not Printed","FIRM, Discovery"

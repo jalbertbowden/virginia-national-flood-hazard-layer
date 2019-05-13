@@ -1,0 +1,24 @@
+Coded Value,Type of Feature to Which the Labels and Leaders Apply,Applies to Database Schema
+1000,Ortho-Transportation,FIRM
+1001,Ortho-Water,FIRM
+1002,S_Trnsport_Ln,FIRM
+1003,S_Wtr_Ar,FIRM
+1004,S_Wtr_Ln,FIRM
+1005,Notes and Map Collar,FIRM
+1006,S_BFE,FIRM
+1008,S_Cst_Tsct_Ln,FIRM
+1009,S_FIRM_Pan,FIRM
+1010,S_Fld_Haz_Ar,FIRM
+1011,S_Fld_Haz_Ln,FIRM
+1012,S_Gage,FIRM
+1013,S_Gen_Struct,FIRM
+1014,S_Levee,FIRM
+1015,S_LiMWA,FIRM
+1016,S_PFD_Ln,FIRM
+1017,S_PLSS_Ar,FIRM
+1018,S_Pol_Ar,FIRM
+1019,S_Profil_Basln,FIRM
+1020,S_Riv_Mrk,FIRM
+1021,S_Tsct_Basln,FIRM
+1022,S_XS,FIRM
+NP,NP,FIRM

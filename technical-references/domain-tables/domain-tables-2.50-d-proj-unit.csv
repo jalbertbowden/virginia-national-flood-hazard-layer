@@ -1,0 +1,6 @@
+Coded Value,Type of Units for Projection System,Applies to Database Schema
+USFT,US Survey Feet,"FIRM, FRD"
+INTLFT,International Feet,"FIRM, FRD"
+METER,Meters,"FIRM, FRD"
+DECDEG,Decimal Degrees,"NFHL, FRD"
+NP,NP,"FIRM, FRD"

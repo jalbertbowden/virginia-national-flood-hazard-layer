@@ -1,0 +1,13 @@
+Coded Value,Construction Type Description,Applies to Database Schema
+ARCH,Arch,FRD
+ARGV,Arch-Gravity,FRD
+ASCN,Asphalt-Concrete,FRD
+BARR,Barrage,FRD
+CLAY,Clay,FRD
+CONC,Concrete of Masonry,FRD
+ERFL,Earth-Fill,FRD
+FMIX,Fill Mix (clay/silt/sand),FRD
+GRAV,Gravity,FRD
+RKFL,Rock-Fill,FRD
+OTH,Other,FRD
+NP,NP,FRD

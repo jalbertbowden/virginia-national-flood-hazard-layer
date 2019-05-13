@@ -1,0 +1,7 @@
+Coded Value,Type of Reservoir Conditions,Applies to Database Schema
+F,Full,FRD
+N,Normal Pool,FRD
+A,Auxiliary Spillway,FRD
+P,Primary Spillway,FRD
+W,Without Dam,FRD
+NP,NP,FRD

@@ -1,0 +1,9 @@
+Coded Value,Type of Area Unit,Applies to Database Schema
+1000,Acres,FIRM
+1010,Hectares,FIRM
+1020,Square Feet,FIRM
+1030,Square Meters,FIRM
+1040,Square Yards,FIRM
+1050,Square Miles,FIRM
+1060,Square Kilometers,FIRM
+NP,NP,FIRM

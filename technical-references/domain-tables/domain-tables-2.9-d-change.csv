@@ -1,0 +1,6 @@
+Coded Value,Changes Since Last FIRM Subtypes Description,Applies to Database Schema
+I,Increase,FRD
+D,Decrease,FRD
+N,Negligible,FRD
+Z,None (Zero),FRD
+U,Unknown,FRD

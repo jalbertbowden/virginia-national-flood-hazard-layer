@@ -1,0 +1,4 @@
+Coded Value,Type of Subbasin Model,Applies to Database Schema
+HYD,Hydrologic Analyses,FIRM
+HUC8,USGS HUC-8,FIRM
+NP,NP,FIRM

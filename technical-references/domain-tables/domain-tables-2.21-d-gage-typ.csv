@@ -1,0 +1,14 @@
+Coded Value,Type of Gage,Applies to Database Schema
+1000,Flow,FIRM
+1010,Flow / Stage,FIRM
+1020,Stage,FIRM
+1100,Fixed Interval,FIRM
+1110,Instantaneous,FIRM
+1200,Wave Height,FIRM
+1210,Wind Direction,FIRM
+1220,Wind Speed,FIRM
+1230,Wind Speed and Direction,FIRM
+1240,Tide,FIRM
+1120,Tipping,FIRM
+1250,Wave Height and Direction,FIRM
+NP,NP,FIRM

@@ -1,0 +1,11 @@
+Coded Value,Type of Velocity Unit,Applies to Database Schema
+1000,Centimeters / Day,FIRM
+1010,Centimeters / Hour,FIRM
+1020,Feet / Second,FIRM
+1030,Inches / Day,FIRM
+1040,Inches / Hour,FIRM
+1050,Meters / Second,FIRM
+1060,Micrometers / Second,FIRM
+1070,Millimeters / Day,FIRM
+1080,Millimeters / Hour,FIRM
+NP,NP,FIRM

@@ -1,0 +1,4 @@
+Coded Value,FRD Description,FIRM Description,Applies to Database Schema
+T,True (Yes),T,"FIRM, FRD, Discovery"
+F,False (No),F,"FIRM, FRD, Discovery"
+U,Unknown,U,"FIRM, FRD, Discovery"

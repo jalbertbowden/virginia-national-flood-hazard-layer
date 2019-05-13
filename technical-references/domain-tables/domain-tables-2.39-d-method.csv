@@ -1,0 +1,5 @@
+Coded Value,Type of Elevation Source Method,Applies to Database Schema
+1000,Combo of Topo and Survey,FIRM
+1010,Cut from Topo,FIRM
+1020,Digitized from FIRM,FIRM
+1030,Field Survey,FIRM

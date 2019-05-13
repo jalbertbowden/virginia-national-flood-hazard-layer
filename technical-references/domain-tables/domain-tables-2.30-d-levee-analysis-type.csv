@@ -1,0 +1,10 @@
+Coded Value,Type of Levee Analysis,Applies to Database Schema
+NV,Natural Valley,"FIRM, FRD"
+SBI,Structural-Based Inundation,"FIRM, FRD"
+OVR,Overtopping,"FIRM, FRD"
+FD,Freeboard Deficient,"FIRM, FRD"
+SR,Sound Reach,"FIRM, FRD"
+BBT,BFE Below Toe,"FIRM, FRD"
+NHS,Not Hydraulically Significant,"FIRM, FRD"
+OTH,Other,"FIRM, FRD"
+NP,NP,"FIRM, FRD"

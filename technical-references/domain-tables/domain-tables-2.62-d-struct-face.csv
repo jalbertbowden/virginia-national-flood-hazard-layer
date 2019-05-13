@@ -1,0 +1,4 @@
+Coded Value,Face of Structure,Applies to Database Schema
+UP,Upstream,FIRM
+DN,Downstream,FIRM
+UNK,Unknown,FIRM

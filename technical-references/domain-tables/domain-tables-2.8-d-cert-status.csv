@@ -1,0 +1,10 @@
+Coded Value,Type of Certification Status Description,Applies to Database Schema
+1000,"Meets Existing FEMA Accreditation
+Policy",FIRM
+1010,Certified Prior to Existing FEMA Policy,FIRM
+1020,Certified by Another Federal Agency,FIRM
+2000,Not Certified: Failure of Vertical Structure,FIRM
+2010,Not Certified: Failure of Revetment,FIRM
+2030,Not Certified: Failure of Levee,FIRM
+3000,Not Applicable,FIRM
+NP,NP,FIRM

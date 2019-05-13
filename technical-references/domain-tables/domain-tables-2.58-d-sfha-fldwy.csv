@@ -1,0 +1,5 @@
+Coded Value,Type of FRD Floodway,Applies to Database Schema
+SFHA,Special Flood Hazard Area,FRD
+FLDWY,Floodway,FRD
+CHHA,Coastal High Hazard Area,FRD
+NP,NP,FRD

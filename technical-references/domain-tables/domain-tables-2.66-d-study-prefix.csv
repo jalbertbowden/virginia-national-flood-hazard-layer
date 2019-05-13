@@ -1,0 +1,10 @@
+Coded Value,Type of Prefix Value,Applies to Database Schema
+100,Borough of,"FIRM, FRD"
+200,City and County of,"FIRM, FRD"
+300,City of,"FIRM, FRD"
+400,Municipality of,"FIRM, FRD"
+500,Town of,"FIRM, FRD"
+600,Township of,"FIRM, FRD"
+700,Village of,"FIRM, FRD"
+800,Town and Village of,"FIRM, FRD"
+9000,Other,"FIRM, FRD"

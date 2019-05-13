@@ -1,0 +1,14 @@
+Coded Value,Type of Event,Applies to Database Schema
+0_2,0.2% Annual Chance Event,FRD
+01,1% Annual Chance Event,FRD
+01P,1% Plus Annual Chance Event,FRD
+02,2% Annual Chance Event,FRD
+04,4% Annual Chance Event,FRD
+10,10% Annual Chance Event,FRD
+HIS,Historical Flood Event,FRD
+LS,Levee Shadow,FRD
+OVT,Overtop,FRD
+TOE,Levee Toe (wet side of levee),FRD
+LC,Levee Crest,FRD
+LT,Landward Toe,FRD
+NP,NP,FRD

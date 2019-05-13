@@ -1,0 +1,8 @@
+Coded Value,FRD Description,Type of Vertical Datum FIRM Description,Applies to Database Schema
+MSL,Mean Sea Level,MSL,"FIRM, FRD"
+NAVD88,North American Vertical Datum 1988,NAVD88,"FIRM, FRD"
+NGVD29,North American Geodetic Vertical Datum 1929,NGVD29,"FIRM, FRD"
+TIDAL,Local Tidal Datum,LOCAL TIDAL DATUM,"FIRM, FRD"
+MLLW,Mean Lower Low Water Datum,MLLW,"FIRM, FRD"
+MLW,Mean Low Water Datum,MLW,"FIRM, FRD"
+NP,NP,NP,FIRM

@@ -1,0 +1,6 @@
+Coded Value,Jurisdiction Type,Applies to Database Schema
+0100,All Jurisdictions,"FIRM, FRD"
+0200,And Incorporated Areas,"FIRM, FRD"
+0300,Independent City,"FIRM, FRD"
+0900,Unincorporated Areas,"FIRM, FRD"
+9000,Other,FRD

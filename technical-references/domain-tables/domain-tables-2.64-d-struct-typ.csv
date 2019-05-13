@@ -1,0 +1,37 @@
+Coded Value,Structure Type Definition,Applies to Database Schema
+1000,Aqueduct,FIRM
+1001,Bridge,FIRM
+1002,Canal,FIRM
+1003,Channel,FIRM
+1006,Control Structure,FIRM
+1007,Culvert,FIRM
+1010,Dam,FIRM
+1011,Dike,FIRM
+1012,Dock,FIRM
+1013,Drop Structure,FIRM
+1014,Energy Dissipater,FIRM
+1015,Fish Ladder,FIRM
+1017,Flume,FIRM
+1018,Footbridge,FIRM
+1019,Gate,FIRM
+1020,Jetty,FIRM
+1021,Levee,FIRM
+1022,Lock,FIRM
+1023,Penstock,FIRM
+1024,Pier,FIRM
+1025,Pump Station,FIRM
+1026,Seawall,FIRM
+1027,Side Weir Structure,FIRM
+1028,Storm Sewer,FIRM
+1029,Utility Crossing,FIRM
+1030,Weir,FIRM
+1031,Wing Wall,FIRM
+1033,0.2 PCT Annual Chance Flood FIRM Discharge Contained in Structure,FIRM
+1032,1 percent Annual Chance Flood Discharge Contained in Structure,FIRM
+1036,Floodway Contained in Structure,FIRM
+1037,Pipeline,FIRM
+1038,Retaining Wall,FIRM
+1039,Revetment,FIRM
+1040,Siphon,FIRM
+9000,Other / Misc. Structure,FIRM
+NP,NP,FIRM

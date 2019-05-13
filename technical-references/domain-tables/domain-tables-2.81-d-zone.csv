@@ -1,0 +1,14 @@
+Coded Value,Type of Flood Zone,Applies to Database Schema
+A,A,"FIRM, FRD, Discovery"
+A99,A99,"FIRM, FRD, Discovery"
+AE,AE,"FIRM, FRD, Discovery"
+AH,AH,"FIRM, FRD, Discovery"
+AO,AO,"FIRM, FRD, Discovery"
+AR,AR,"FIRM, FRD, Discovery"
+ANI,AREA NOT INCLUDED,"FIRM, FRD, Discovery"
+D,D,"FIRM, FRD, Discovery"
+NP,NP – NOT POPULATED,FRD
+OW,OPEN WATER,"FIRM, FRD, Discovery"
+V,V,"FIRM, FRD, Discovery"
+VE,VE,"FIRM, FRD, Discovery"
+X,X,"FIRM, FRD, Discovery"

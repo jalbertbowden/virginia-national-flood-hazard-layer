@@ -1,0 +1,6 @@
+Coded Value,Type of Levee Structure,Applies to Database Schema
+CLC,Coastal Levee Centerline,FIRM
+LC,Levee Centerline,FIRM
+FW,Floodwall,FIRM
+CS,Closure Structure,FIRM
+NP,NP,FIRM

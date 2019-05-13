@@ -1,0 +1,5 @@
+Coded Value,Type of Release,Applies to Database Schema
+P,Piping,FRD
+O,Overtop,FRD
+G,Gate Failure,FRD
+NP,NP,FRD

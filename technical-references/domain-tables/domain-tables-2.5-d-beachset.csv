@@ -1,0 +1,8 @@
+Coded Value,Type of Beach Setting,Applies to Database Schema
+1050,"Cobble, Gravel, Shingle, or Mixed Grain Sized Beach and Berms",FIRM
+1020,Erodible Coastal Bluffs,FIRM
+1030,Non-Erodible Coastal Cliffs and Bluffs,FIRM
+1000,Sandy Beach Backed by Low Sand Berm or High Sand Dune Formation,FIRM
+1010,Sandy Beach Backed by Shore Protection Structures,FIRM
+1040,Tidal Flats and Wetlands,FIRM
+NP,NP,FIRM

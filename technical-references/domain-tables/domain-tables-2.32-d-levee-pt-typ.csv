@@ -1,0 +1,17 @@
+Coded Value,Type of Levee Point,Applies to Database Schema
+BOIL,Sand Boil Point,FRD
+BORE,Borehole Point,FRD
+CROSS,Levee Crossing Point,FRD
+ENCR,Encroachment Point,FRD
+FAIL,Levee Failure Point,FRD
+FIGHT,Flood Fight Point,FRD
+PIEZ,Piezometer Point,FRD
+PUMP,Pump Station Point,FRD
+RWP,Levee Relief Well Point,FRD
+STA,Levee Station Point,FRD
+CLOS,Closure Structure,FRD
+GRAV,Gravity Drain,FRD
+LEVST,Levee Station Point,FRD
+TOE,Toe Drain,FRD
+REHAB,Rehabilitation Line,FRD
+NP,NP,FRD

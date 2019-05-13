@@ -1,0 +1,5 @@
+Coded Value,Dune Size Description,Applies to Database Schema
+SML,SMALL,FRD
+LRG,LARGE,FRD
+UNK,UNKNOWN,FRD
+NP,NP,FRD

@@ -1,0 +1,9 @@
+Coded Value,Type of Erosion Description,Applies to Database Schema
+1010,Not Applied,FIRM
+1020,Dune Removal,FIRM
+1030,Dune Retreat,FIRM
+1040,K-D,FIRM
+1050,MK-A,FIRM
+1060,SBEACH,FIRM
+9000,Other,FIRM
+NP,NP,FIRM

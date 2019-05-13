@@ -1,0 +1,6 @@
+Coded Value,Type of Horizontal Datum,Applies to Database Schema
+NAD27,North American Datum 1927,"FIRM, FRD"
+NAD83,North American Datum 1983,"FIRM, FRD"
+83HARN,North American Datum 1983 HARN,"FIRM, FRD"
+WGS84,World Geodetic System 1984,"FRD, NFHL"
+NSRS07,NAD83 (NSRS2007),"FIRM, FRD"

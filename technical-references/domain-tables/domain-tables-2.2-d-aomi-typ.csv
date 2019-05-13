@@ -1,0 +1,11 @@
+Coded Value,Area of Mitigation Interest Type Description,Applies to Database Schema
+0200,Non-Accredited Levees,FRD
+0300,Coastal Structures,FRD
+0400,Streamflow Constrictions,FRD
+0500,Key Emergency Routes Overtopped,FRD
+0600,Past Claims Hot Spot,FRD
+0800,Significant Land Use Change,FRD
+1000,Non-Levee Embankments,FRD
+1100,At Risk Essential Facilities,FRD
+9000,Other,FRD
+NP,NP,FRD

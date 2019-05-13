@@ -1,0 +1,5 @@
+Coded Value,Hazard Class Description,Applies to Database Schema
+HIGH,High,FRD
+SIG,Significant,FRD
+LOW,Low,FRD
+NP,NP,FRD

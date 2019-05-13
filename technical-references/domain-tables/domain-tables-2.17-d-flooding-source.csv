@@ -1,0 +1,6 @@
+Coded Value,Flooding Source Type,Applies to Database Schema
+R,Riverine,FRD
+C,Coastal,FRD
+D,Dam,FRD
+O,Other,FRD
+NP,NP,FRD

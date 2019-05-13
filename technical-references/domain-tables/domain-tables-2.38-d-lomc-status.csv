@@ -1,0 +1,7 @@
+Coded Value,Type of Status Values for LOMCs,Applies to Database Schema
+1000,Superseded,FIRM
+1010,Revalidated,FIRM
+1020,Incorporated,FIRM
+1030,Redetermined,FIRM
+1040,Effective,FIRM
+NP,NP,FIRM

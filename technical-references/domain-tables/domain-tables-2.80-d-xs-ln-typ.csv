@@ -1,0 +1,4 @@
+Coded Value,Type of Cross Section Description,Applies to Database Schema,When Used?
+1010,"LETTERED, MAPPED",FIRM,"Traditional Lettered XS, FDTs, Profiles"
+1020,"NOT LETTERED, MAPPED",FIRM,"Modeled XSs used for Base Flood Elevation (BFE) values on FIRM panels, not shown on FDTs or Profiles, shown but not lettered on panels"
+1030,"NOT LETTERED, NOT MAPPED",FIRM,"Model Backup in the FIRM Database, including unused XSs adjacent to bridges, too densely spaced, or modeled Zone A."

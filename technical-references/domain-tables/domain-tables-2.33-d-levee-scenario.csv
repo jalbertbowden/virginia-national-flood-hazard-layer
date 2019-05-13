@@ -1,0 +1,4 @@
+Coded Value,Type of Levee Scenario,Applies to Database Schema
+R,With Right Levee,FIRM
+L,With Left Levee,FIRM
+B,With Both Levees,FIRM

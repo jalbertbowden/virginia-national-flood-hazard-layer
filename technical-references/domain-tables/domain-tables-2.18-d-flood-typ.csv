@@ -1,0 +1,6 @@
+Coded Value,Type of Flooding,Applies to Database Schema
+1000,Riverine,"FIRM, FRD, Discovery"
+1010,Coastal,"FIRM, FRD, Discovery"
+1020,Alluvial,"FIRM, FRD, Discovery"
+1030,Lacustrine,"FIRM, FRD, Discovery"
+1040,Ponding,"FIRM, FRD, Discovery"

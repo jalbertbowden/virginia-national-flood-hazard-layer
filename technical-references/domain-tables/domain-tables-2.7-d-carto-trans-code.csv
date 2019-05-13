@@ -1,0 +1,12 @@
+Coded Value,Cartographic Code Used for Symbolization Description,Applies to Database Schema
+0100,Interstates,"FIRM, FRD"
+0200,US Highways,"FIRM, FRD"
+0300,State Highways,"FIRM, FRD"
+0400,County Roads,"FIRM, FRD"
+0500,Local Roads,"FIRM, FRD"
+0700,Railroads,"FIRM, FRD"
+0800,Airports,"FIRM, FRD"
+0900,User-Defined,FRD
+9000,Other,FRD
+-8888,-8888,FRD
+NP,NP,FIRM

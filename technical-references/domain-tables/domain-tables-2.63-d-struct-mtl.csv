@@ -1,0 +1,11 @@
+Coded Value,Type of Structure Material,Applies to Database Schema
+1000,Stone,FIRM
+1010,Asphalt,FIRM
+1020,Concrete,FIRM
+1030,Earthen,FIRM
+1040,Timber,FIRM
+1050,Steel,FIRM
+1060,Sand,FIRM
+1070,Other,FIRM
+1080,Unknown,FIRM
+NP,NP,FIRM

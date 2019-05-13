@@ -1,0 +1,5 @@
+Coded Value,Type of Accreditation,Applies to Database Schema
+A,Accredited,FRD
+P,Provisionally Accredited,FRD
+N,Non-Accredited,FRD
+NP,NP,FRD

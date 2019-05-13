@@ -1,0 +1,6 @@
+Coded Value,Type of Breach,Applies to Database Schema
+H,"Community-supplied, historical",FRD
+O,"Community-supplied, overtopping",FRD
+P,"Community-supplied, potential engineered breach location",FRD
+A,Armored overtopping,FRD
+NP,NP,FRD
